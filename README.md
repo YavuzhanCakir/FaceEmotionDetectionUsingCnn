@@ -4,7 +4,6 @@ This project implements a Convolutional Neural Network (CNN) to detect emotions 
 Table of Contents
 Introduction
 Features
-Installation
 Usage
 Model Architecture
 Results
@@ -19,18 +18,6 @@ Uses OpenCV for image preprocessing.
 Implements convolutional layers for feature extraction.
 Includes pooling layers to reduce dimensionality.
 Trains on a dataset of facial expressions with categorical labels.
-Installation
-Clone the repository:
-
-bash
-Kodu kopyala
-git clone https://github.com/yourusername/FaceEmotionDetectionUsingCnn.git
-cd FaceEmotionDetectionUsingCnn
-Install the required packages:
-
-bash
-Kodu kopyala
-pip install -r requirements.txt
 Usage
 Prepare the dataset:
 
